@@ -6,6 +6,7 @@ const nextConfig = {
       "www.logo.wine",
       "platform-lookaside.fbsbx.com",
       "firebasestorage.googleapis.com",
+      "brandlogos.net",
     ],
   },
 }
